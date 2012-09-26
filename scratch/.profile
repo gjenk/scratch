@@ -1,0 +1,5 @@
+alias deploy='sudo /opt/csw/bin/deploy.pl'
+alias endis='sudo /usr/sbin/svcadm'
+alias la='ls -l'
+alias tailFile='/home/gjenkins/scripts/tailFile.pl'
+alias diff='/opt/csw/bin/vimdiff'
